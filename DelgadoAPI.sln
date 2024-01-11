@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelgadoAPI", "DelgadoAPI\DelgadoAPI.csproj", "{0A0F9BB4-607E-41C1-938E-AAAA3C48151D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0F9BB4-607E-41C1-938E-AAAA3C48151D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0F9BB4-607E-41C1-938E-AAAA3C48151D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0F9BB4-607E-41C1-938E-AAAA3C48151D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0F9BB4-607E-41C1-938E-AAAA3C48151D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2F9A50-9676-4AF4-A9DD-82D5D165F798}
+	EndGlobalSection
+EndGlobal
